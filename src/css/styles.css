@@ -7,6 +7,7 @@
 /* Common styles */
 @import url('./1-gallery.css');
 @import url('./2-form.css');
+@import url('./base.css');
 /* @import url('./container.css');
 @import url('./animations.css'); */
 
