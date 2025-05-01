@@ -1,0 +1,20 @@
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  width: 1128px;
+  padding: 0;
+  padding-left: 156px;
+  padding-right: 156px;
+}
+.gallery-item {
+  margin: 0 auto;
+}
+.gallery-image {
+  height: 200px;
+  width: calc(1080px / 3);
+}
+.gallery-image:hover {
+  height: 208px;
+  width: 376px;
+}
